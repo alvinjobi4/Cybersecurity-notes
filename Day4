@@ -1,0 +1,4 @@
+MAC ID: unique physical address of each device                                                                    TCP: Transmission Control Protocol          UDP: 
+IP: unique network location address of a device connected to the internet       
+                                                                                                                      used for complex delivery                    
+-Pm -A -sV -O -oM --script -vv -p- -sT
